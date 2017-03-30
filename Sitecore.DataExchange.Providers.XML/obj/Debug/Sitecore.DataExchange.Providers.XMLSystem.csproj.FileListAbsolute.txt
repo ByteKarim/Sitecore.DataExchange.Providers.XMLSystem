@@ -1,0 +1,30 @@
+C:\Users\Dheer Singh Rajpoot\Desktop\DEF\XML System\Sitecore.DataExchange.Providers.XML\Sitecore.DataExchange.Providers.XML\bin\Debug\Sitecore.DataExchange.Providers.XMLSystem.dll
+C:\Users\Dheer Singh Rajpoot\Desktop\DEF\XML System\Sitecore.DataExchange.Providers.XML\Sitecore.DataExchange.Providers.XML\bin\Debug\Sitecore.DataExchange.Providers.XMLSystem.pdb
+C:\Users\Dheer Singh Rajpoot\Desktop\DEF\XML System\Sitecore.DataExchange.Providers.XML\Sitecore.DataExchange.Providers.XML\bin\Debug\Sitecore.DataExchange.DataAccess.dll
+C:\Users\Dheer Singh Rajpoot\Desktop\DEF\XML System\Sitecore.DataExchange.Providers.XML\Sitecore.DataExchange.Providers.XML\bin\Debug\Sitecore.DataExchange.dll
+C:\Users\Dheer Singh Rajpoot\Desktop\DEF\XML System\Sitecore.DataExchange.Providers.XML\Sitecore.DataExchange.Providers.XML\bin\Debug\Sitecore.Services.Core.dll
+C:\Users\Dheer Singh Rajpoot\Desktop\DEF\XML System\Sitecore.DataExchange.Providers.XML\Sitecore.DataExchange.Providers.XML\bin\Debug\Microsoft.OData.Edm.dll
+C:\Users\Dheer Singh Rajpoot\Desktop\DEF\XML System\Sitecore.DataExchange.Providers.XML\Sitecore.DataExchange.Providers.XML\bin\Debug\Microsoft.OData.Edm.xml
+C:\Users\Dheer Singh Rajpoot\Desktop\DEF\XML System\Sitecore.DataExchange.Providers.XML\Sitecore.DataExchange.Providers.XML\obj\Debug\Sitecore.DataExchange.Providers.XMLSystem.csprojResolveAssemblyReference.cache
+C:\Users\Dheer Singh Rajpoot\Desktop\DEF\XML System\Sitecore.DataExchange.Providers.XML\Sitecore.DataExchange.Providers.XML\obj\Debug\Sitecore.DataExchange.Providers.XMLSystem.dll
+C:\Users\Dheer Singh Rajpoot\Desktop\DEF\XML System\Sitecore.DataExchange.Providers.XML\Sitecore.DataExchange.Providers.XML\obj\Debug\Sitecore.DataExchange.Providers.XMLSystem.pdb
+C:\Users\Dheer Singh Rajpoot\Desktop\DEF\XML System\Sitecore.DataExchange.Providers.XML - 1.1\Sitecore.DataExchange.Providers.XML\bin\Debug\Sitecore.DataExchange.Providers.XMLSystem.dll
+C:\Users\Dheer Singh Rajpoot\Desktop\DEF\XML System\Sitecore.DataExchange.Providers.XML - 1.1\Sitecore.DataExchange.Providers.XML\bin\Debug\Sitecore.DataExchange.Providers.XMLSystem.pdb
+C:\Users\Dheer Singh Rajpoot\Desktop\DEF\XML System\Sitecore.DataExchange.Providers.XML - 1.1\Sitecore.DataExchange.Providers.XML\bin\Debug\Sitecore.DataExchange.DataAccess.dll
+C:\Users\Dheer Singh Rajpoot\Desktop\DEF\XML System\Sitecore.DataExchange.Providers.XML - 1.1\Sitecore.DataExchange.Providers.XML\bin\Debug\Sitecore.DataExchange.dll
+C:\Users\Dheer Singh Rajpoot\Desktop\DEF\XML System\Sitecore.DataExchange.Providers.XML - 1.1\Sitecore.DataExchange.Providers.XML\bin\Debug\Sitecore.Services.Core.dll
+C:\Users\Dheer Singh Rajpoot\Desktop\DEF\XML System\Sitecore.DataExchange.Providers.XML - 1.1\Sitecore.DataExchange.Providers.XML\bin\Debug\Microsoft.OData.Edm.dll
+C:\Users\Dheer Singh Rajpoot\Desktop\DEF\XML System\Sitecore.DataExchange.Providers.XML - 1.1\Sitecore.DataExchange.Providers.XML\bin\Debug\Microsoft.OData.Edm.xml
+C:\Users\Dheer Singh Rajpoot\Desktop\DEF\XML System\Sitecore.DataExchange.Providers.XML - 1.1\Sitecore.DataExchange.Providers.XML\obj\Debug\Sitecore.DataExchange.Providers.XMLSystem.csprojResolveAssemblyReference.cache
+C:\Users\Dheer Singh Rajpoot\Desktop\DEF\XML System\Sitecore.DataExchange.Providers.XML - 1.1\Sitecore.DataExchange.Providers.XML\obj\Debug\Sitecore.DataExchange.Providers.XMLSystem.dll
+C:\Users\Dheer Singh Rajpoot\Desktop\DEF\XML System\Sitecore.DataExchange.Providers.XML - 1.1\Sitecore.DataExchange.Providers.XML\obj\Debug\Sitecore.DataExchange.Providers.XMLSystem.pdb
+C:\MyData\Rambling\Github\Sitecore.DataExchange.Providers.XMLSystem\Sitecore.DataExchange.Providers.XML\bin\Debug\Sitecore.DataExchange.Providers.XMLSystem.dll
+C:\MyData\Rambling\Github\Sitecore.DataExchange.Providers.XMLSystem\Sitecore.DataExchange.Providers.XML\bin\Debug\Sitecore.DataExchange.Providers.XMLSystem.pdb
+C:\MyData\Rambling\Github\Sitecore.DataExchange.Providers.XMLSystem\Sitecore.DataExchange.Providers.XML\bin\Debug\Sitecore.DataExchange.DataAccess.dll
+C:\MyData\Rambling\Github\Sitecore.DataExchange.Providers.XMLSystem\Sitecore.DataExchange.Providers.XML\bin\Debug\Sitecore.DataExchange.dll
+C:\MyData\Rambling\Github\Sitecore.DataExchange.Providers.XMLSystem\Sitecore.DataExchange.Providers.XML\bin\Debug\Sitecore.Services.Core.dll
+C:\MyData\Rambling\Github\Sitecore.DataExchange.Providers.XMLSystem\Sitecore.DataExchange.Providers.XML\bin\Debug\Microsoft.OData.Edm.dll
+C:\MyData\Rambling\Github\Sitecore.DataExchange.Providers.XMLSystem\Sitecore.DataExchange.Providers.XML\bin\Debug\Microsoft.OData.Edm.xml
+C:\MyData\Rambling\Github\Sitecore.DataExchange.Providers.XMLSystem\Sitecore.DataExchange.Providers.XML\obj\Debug\Sitecore.DataExchange.Providers.XMLSystem.csprojResolveAssemblyReference.cache
+C:\MyData\Rambling\Github\Sitecore.DataExchange.Providers.XMLSystem\Sitecore.DataExchange.Providers.XML\obj\Debug\Sitecore.DataExchange.Providers.XMLSystem.dll
+C:\MyData\Rambling\Github\Sitecore.DataExchange.Providers.XMLSystem\Sitecore.DataExchange.Providers.XML\obj\Debug\Sitecore.DataExchange.Providers.XMLSystem.pdb
