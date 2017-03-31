@@ -6,8 +6,8 @@
         {
         }
        
-        public string StartNode { get; set; }
-        public string XMLFilePath { get; set; }
+        public string XMLNodeName { get; set; }
+        public string XMLPath { get; set; }
     }
 
 }

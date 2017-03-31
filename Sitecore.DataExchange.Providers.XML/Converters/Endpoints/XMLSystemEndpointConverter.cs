@@ -28,8 +28,8 @@ namespace Sitecore.DataExchange.Providers.XMLSystem.Converters.Endpoints
             var settings = new XMLSystemSettings();
 
             //populate the plugin using values from the item
-            settings.XMLFilePath = base.GetStringValue(source, XMLSystemEndpointItemModel.XMLPath);           
-            settings.StartNode = base.GetStringValue(source, XMLSystemEndpointItemModel.XMLNodeName);
+            settings.XMLPath = base.GetStringValue(source, XMLSystemEndpointItemModel.XMLPath);           
+            settings.XMLNodeName = base.GetStringValue(source, XMLSystemEndpointItemModel.XMLNodeName);
 
             //add the plugin to the endpoint          
             endpoint.Plugins.Add(settings);

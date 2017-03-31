@@ -46,7 +46,7 @@ namespace Sitecore.DataExchange.Providers.XMLSystem.Processors.PipelineSteps
             {
                 return;
             }
-            if (string.IsNullOrWhiteSpace(settings.XMLFilePath))
+            if (string.IsNullOrWhiteSpace(settings.XMLPath))
             {
                 logger.Error(
                     "No path is specified on the endpoint. " +
@@ -58,7 +58,7 @@ namespace Sitecore.DataExchange.Providers.XMLSystem.Processors.PipelineSteps
             //if the path is relative, the base directory is used to build an 
             //absolute path so that when this code runs on the Sitecore server, 
             //relative paths will be based on the webroot
-            var path = settings.XMLFilePath;
+            var path = settings.XMLPath;
 
             Uri uriResult;
             bool result = Uri.TryCreate(path, UriKind.Absolute, out uriResult)
@@ -85,7 +85,7 @@ namespace Sitecore.DataExchange.Providers.XMLSystem.Processors.PipelineSteps
             var lines = new List<string[]>();
             XmlDocument document = new XmlDocument();
             document.Load(path);
-            XmlNodeList xmlNodeList = document.GetElementsByTagName(settings.StartNode);
+            XmlNodeList xmlNodeList = document.GetElementsByTagName(settings.XMLNodeName);
             XmlNode[] nodeArray = xmlNodeList.Cast<XmlNode>().ToArray();
             for (int i = 0; i < xmlNodeList.Count; i++)
             {
