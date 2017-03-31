@@ -9,7 +9,7 @@ namespace Sitecore.DataExchange.Providers.XMLSystem.Models.ItemModels.Endpoints
     //Sitecore items.Fields on this type are accessed by name.
     public class XMLSystemEndpointItemModel : ItemModel
     {        
-        public const string StartNode = "StartNode";
-        public const string XMLFilePath = "XMLFilePath";
+        public const string XMLNodeName = "XMLNodeName";
+        public const string XMLPath = "XMLPath";
     }
 }
