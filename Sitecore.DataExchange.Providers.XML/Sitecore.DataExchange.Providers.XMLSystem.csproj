@@ -65,6 +65,9 @@
   <ItemGroup>
     <None Include="Sitecore Package\XML Provider for Sitecore Data Exchange Framework-1.3.zip" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Sample XML File\cd_catalog.xml" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
